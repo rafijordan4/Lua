@@ -10,7 +10,7 @@ local CONFIG = {
     -- API Groq (isi key asli di sini)
     GROQ_API_KEY = "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",  -- <-- GANTI INI
     GROQ_URL = "https://api.groq.com/openai/v1/chat/completions",
-    GROQ_MODEL = "llama3-70b-8192",
+    GROQ_MODEL = "openai/gpt-oss-120b",
     
     -- UI
     PANEL_TITLE = "⚡ SoulGPT Panel v2.0",
